@@ -4,7 +4,6 @@ cardHeader.style.color = 'white';
 let lists = document.querySelectorAll('li');
 
 lists.forEach(list => {
-    list.style.fontSize = '20px';
     list.style.color = 'white';
 });
 
